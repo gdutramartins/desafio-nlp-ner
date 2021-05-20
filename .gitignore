@@ -1,0 +1,14 @@
+~$*
+Untitled*
+*.hdf5
+*-checkpoint.ipynb
+*.zip
+*.gz
+*.tar
+Desafios-NLP/2021-03-NER/NER-Data/*
+*.tsv
+*.spacy
+*.json
+model/
+word_vec/*
+vocab-ner.txt
