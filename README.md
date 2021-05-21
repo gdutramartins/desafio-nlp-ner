@@ -1,4 +1,4 @@
-**Março de 2021**
+**Março de 2021 - NER**
 
 Segundo Desafio do Grupo de Desafios NLP. Promovido pelos professores Leonardo Mendoza e Cristian Muñoz Villalobos. O objetivo do desafio será criar modelos usando *Spacy* para extrair *Entidades* biomédicas. Os datasets possuem diferentes *tipos* de entidades, cada um possui o seu conjunto de dados e deve ter um modelo próprio:
 
